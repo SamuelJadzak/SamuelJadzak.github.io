@@ -1,9 +1,25 @@
 body {
     background-color: rgb(219, 222, 223);
 }
+
 h1 {
     color: rgb(127, 79, 238);
 }
+
 p {
     color: rgb(219, 57, 16);
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
 }
